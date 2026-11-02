@@ -1,0 +1,14 @@
+{
+  "_说明": "每期只改这个文件 + Film.tsx 里的场景。beat 由 tools/qc/beat_grid.py 实测后填入（offset/period），不要手估。",
+  "ep": "EP-YYYYMMDD-NN",
+  "series_no": "02",
+  "dur": 96.0,
+  "beat": {"offset": 0.271, "period": 0.51283, "lead_frames": 1},
+  "cover": {
+    "kicker": "你被设计了吗 · 02",
+    "big": "¥0.00",
+    "line2": "是摆给你看的？",
+    "sub": "XX 里的 XX 效应",
+    "accent": "#F2B544"
+  }
+}

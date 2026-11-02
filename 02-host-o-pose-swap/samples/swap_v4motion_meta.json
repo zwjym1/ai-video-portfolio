@@ -1,0 +1,60 @@
+{
+ "mp4": "/workspace/science-studio/hosts/host_o_star_sleep/samples/host_o_swap_v4motion.mp4",
+ "vo": "/workspace/science-studio/hosts/host_d/ai_talking/inputs/vo_intro.mp3",
+ "dur": 10.710125,
+ "n_frames": 321,
+ "schedule": [
+  [
+   0.0,
+   2.2,
+   "pose_talk_idle"
+  ],
+  [
+   2.2,
+   4.5,
+   "pose_talk_point"
+  ],
+  [
+   4.5,
+   6.5,
+   "pose_think"
+  ],
+  [
+   6.5,
+   8.5,
+   "pose_talk_point"
+  ],
+  [
+   8.5,
+   10.0,
+   "pose_react_surprise"
+  ],
+  [
+   10.0,
+   99.0,
+   "pose_peace"
+  ]
+ ],
+ "preset": "aning_v4",
+ "head_hh_px": 556.9,
+ "scale_vs_hostA": 0.9438,
+ "AX_px": 16.05,
+ "AY_px": 31.15,
+ "rigid_y": {
+  "pose_talk_idle": 464.4,
+  "pose_talk_point": 488.5,
+  "pose_think": 474.5,
+  "pose_peace": 463.8,
+  "pose_react_surprise": 504.1
+ },
+ "pin_y": 1079,
+ "blink_frames": [
+  50,
+  51,
+  155,
+  156,
+  255,
+  256
+ ],
+ "frac_open": 0.688
+}

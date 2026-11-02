@@ -1,0 +1,70 @@
+{
+ "mp4": "/workspace/science-studio/hosts/host_o_star_sleep/samples/host_o_posekit_swap_sample.mp4",
+ "vo": "/workspace/science-studio/hosts/host_d/ai_talking/inputs/vo_intro.mp3",
+ "dur": 10.710125,
+ "n_frames": 321,
+ "schedule": [
+  [
+   0.0,
+   2.2,
+   "pose_talk_idle"
+  ],
+  [
+   2.2,
+   4.5,
+   "pose_talk_point"
+  ],
+  [
+   4.5,
+   6.5,
+   "pose_think"
+  ],
+  [
+   6.5,
+   8.5,
+   "pose_talk_point"
+  ],
+  [
+   8.5,
+   10.0,
+   "pose_react_surprise"
+  ],
+  [
+   10.0,
+   99.0,
+   "pose_peace"
+  ]
+ ],
+ "method": "posekit patches via pose_api; hard pose cuts; sprite-talk BodyWarp bottom-anchored bob/sway per frame on current pose; blink_v2 eyes",
+ "sway": {
+  "curve": "sprite_talk GENERIC_LOOP",
+  "piv_ratio": 0.355,
+  "dy_gain": 0.75,
+  "amp": 1.0,
+  "amp_scale": "x per-pose head height (BodyWarp.head_height)",
+  "head_px": {
+   "pose_talk_idle": 359.3,
+   "pose_talk_point": 350.4,
+   "pose_think": 351.1,
+   "pose_peace": 351.8,
+   "pose_react_surprise": 337.6
+  },
+  "max_dx_px": 5.75,
+  "max_dy_px": 20.21
+ },
+ "blink_frames": {
+  "49": 1,
+  "50": 2,
+  "51": 2,
+  "52": 1,
+  "154": 1,
+  "155": 2,
+  "156": 2,
+  "157": 1,
+  "254": 1,
+  "255": 2,
+  "256": 2,
+  "257": 1
+ },
+ "frac_open": 0.688
+}

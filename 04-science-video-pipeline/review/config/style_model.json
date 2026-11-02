@@ -1,0 +1,21 @@
+{
+ "what": "实拍(0) vs 2D示意动画(1) 逻辑回归；特征 [zero,weak,edge] 见 lib/cutquality.py style_feats",
+ "trained_on": "iPhone18Pro v2 的 36 个设计镜头（ShotsV2.tsx REAL 真值）",
+ "loo_acc": 0.944,
+ "w": [
+  -1.0122,
+  -3.344,
+  -0.4427
+ ],
+ "b": -1.2119,
+ "mu": [
+  0.18556,
+  0.20063,
+  0.07937
+ ],
+ "sd": [
+  0.09293,
+  0.13402,
+  0.05775
+ ]
+}

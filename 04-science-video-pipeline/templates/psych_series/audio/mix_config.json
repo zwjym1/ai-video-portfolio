@@ -1,0 +1,14 @@
+{
+  "_说明": "在期目录下运行：python3 <模板>/audio/mix_film.py audio/mix_config.json。beat.offset/period 先用 tools/qc/beat_grid.py 量 BGM 原曲（裁好入点后）得到；混完再量 final/stem_bgm.wav 复核。",
+  "dur": 96.69,
+  "vo": "vo/vo_v1.wav",
+  "bgm": "sfx/bgm/your_track.mp3",
+  "bgm_in": 17.204,
+  "beat": {"offset": 0.271, "period": 0.51283},
+  "splices": [{"at_k": 126, "skip_beats": 20}],
+  "lp_zones": [{"k0": 18, "k1": 21, "fc": 320, "amt": 1.0, "xs": 0.02}],
+  "fade_k": 182,
+  "targets": {"vo": -16, "bgm": -24, "duck_db": -5, "mix": -16, "limit": 0.80},
+  "events": "remotion/src/film_events.json",
+  "out_dir": "final"
+}

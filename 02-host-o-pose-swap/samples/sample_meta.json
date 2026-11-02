@@ -1,0 +1,7 @@
+{
+  "mp4": "/workspace/science-studio/hosts/host_o_star_sleep/samples/host_o_talk_landscape_sample.mp4",
+  "preview": "/workspace/science-studio/hosts/host_o_star_sleep/samples/host_o_talk_preview.jpg",
+  "script": "/workspace/science-studio/hosts/host_o_star_sleep/samples/drive_host_o_sample.py",
+  "bob": "Aning-extract ×0.75 dy_gain, height-scaled to host_h=924",
+  "vo": "/workspace/science-studio/hosts/host_d/ai_talking/inputs/vo_intro.mp3"
+}

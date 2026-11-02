@@ -1,0 +1,25 @@
+{
+ "name": "psych-series-template",
+ "private": true,
+ "version": "1.0.0",
+ "scripts": {
+  "studio": "remotion studio",
+  "still": "remotion still",
+  "render": "remotion render src/index.ts Film out/video_noaudio.mp4",
+  "stills": "node scripts/stills.mjs out/stills",
+  "film": "COMP=Film node scripts/render.mjs out/film_silent.mp4",
+  "cover": "node scripts/cover.mjs"
+ },
+ "dependencies": {
+  "remotion": "4.0.539",
+  "@remotion/cli": "4.0.539",
+  "react": "19.1.0",
+  "react-dom": "19.1.0",
+  "@remotion/bundler": "4.0.539",
+  "@remotion/renderer": "4.0.539"
+ },
+ "devDependencies": {
+  "typescript": "5.6.3",
+  "@types/react": "19.1.0"
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "pose_talk_idle": {
+  "img": "pose_talk_idle.png",
+  "match": 0.9,
+  "M": [
+   [
+    1.1193177700042725,
+    0.039087437093257904,
+    -51.78300476074219
+   ],
+   [
+    -0.039087437093257904,
+    1.1193177700042725,
+    -93.17958068847656
+   ]
+  ],
+  "mouth": {
+   "open_s": [
+    "patches/pose_talk_idle/m_open_s.png",
+    343,
+    531
+   ],
+   "open_l": [
+    "patches/pose_talk_idle/m_open_l.png",
+    343,
+    531
+   ],
+   "S": [
+    "patches/pose_talk_idle/m_open_s.png",
+    343,
+    531
+   ],
+   "L": [
+    "patches/pose_talk_idle/m_open_l.png",
+    343,
+    531
+   ],
+   "A": [
+    "patches/pose_talk_idle/m_open_l.png",
+    343,
+    531
+   ],
+   "E": [
+    "patches/pose_talk_idle/m_open_s.png",
+    343,
+    531
+   ],
+   "O": [
+    "patches/pose_talk_idle/m_open_l.png",
+    343,
+    531
+   ]
+  },
+  "eye": {
+   "2": [
+    "patches/pose_talk_idle/e_2.png",
+    257,
+    440
+   ],
+   "1": [
+    "patches/pose_talk_idle/e_1.png",
+    257,
+    410
+   ]
+  }
+ },
+ "pose_talk_point": {
+  "img": "pose_talk_point.png",
+  "match": 0.955,
+  "M": [
+   [
+    1.100000023841858,
+    0.0,
+    -12.0
+   ],
+   [
+    0.0,
+    1.100000023841858,
+    -72.0
+   ]
+  ],
+  "mouth": {
+   "open_s": [
+    "patches/pose_talk_point/m_open_s.png",
+    354,
+    554
+   ],
+   "open_l": [
+    "patches/pose_talk_point/m_open_l.png",
+    354,
+    554
+   ],
+   "S": [
+    "patches/pose_talk_point/m_open_s.png",
+    354,
+    554
+   ],
+   "L": [
+    "patches/pose_talk_point/m_open_l.png",
+    354,
+    554
+   ],
+   "A": [
+    "patches/pose_talk_point/m_open_l.png",
+    354,
+    554
+   ],
+   "E": [
+    "patches/pose_talk_point/m_open_s.png",
+    354,
+    554
+   ],
+   "O": [
+    "patches/pose_talk_point/m_open_l.png",
+    354,
+    554
+   ]
+  },
+  "eye": {
+   "2": [
+    "patches/pose_talk_point/e_2.png",
+    270,
+    471
+   ],
+   "1": [
+    "patches/pose_talk_point/e_1.png",
+    270,
+    441
+   ]
+  }
+ },
+ "pose_think": {
+  "img": "pose_think.png",
+  "match": 0.793,
+  "M": [
+   [
+    1.077369213104248,
+    0.0753369927406311,
+    -60.78034591674805
+   ],
+   [
+    -0.0753369927406311,
+    1.077369213104248,
+    -46.396114349365234
+   ]
+  ],
+  "mouth": {
+   "open_s": [
+    "patches/pose_think/m_open_s.png",
+    341,
+    541
+   ],
+   "open_l": [
+    "patches/pose_think/m_open_l.png",
+    341,
+    541
+   ],
+   "S": [
+    "patches/pose_think/m_open_s.png",
+    341,
+    541
+   ],
+   "L": [
+    "patches/pose_think/m_open_l.png",
+    341,
+    541
+   ],
+   "A": [
+    "patches/pose_think/m_open_l.png",
+    341,
+    541
+   ],
+   "E": [
+    "patches/pose_think/m_open_s.png",
+    341,
+    541
+   ],
+   "O": [
+    "patches/pose_think/m_open_l.png",
+    341,
+    541
+   ]
+  },
+  "eye": {
+   "2": [
+    "patches/pose_think/e_2.png",
+    257,
+    448
+   ],
+   "1": [
+    "patches/pose_think/e_1.png",
+    257,
+    419
+   ]
+  }
+ },
+ "pose_peace": {
+  "img": "pose_peace.png",
+  "match": 0.924,
+  "M": [
+   [
+    1.0598385334014893,
+    0.018499551340937614,
+    -21.35523796081543
+   ],
+   [
+    -0.018499551340937614,
+    1.0598385334014893,
+    -71.62824249267578
+   ]
+  ],
+  "mouth": {
+   "open_s": [
+    "patches/pose_peace/m_open_s.png",
+    342,
+    525
+   ],
+   "open_l": [
+    "patches/pose_peace/m_open_l.png",
+    342,
+    525
+   ],
+   "S": [
+    "patches/pose_peace/m_open_s.png",
+    342,
+    525
+   ],
+   "L": [
+    "patches/pose_peace/m_open_l.png",
+    342,
+    525
+   ],
+   "A": [
+    "patches/pose_peace/m_open_l.png",
+    342,
+    525
+   ],
+   "E": [
+    "patches/pose_peace/m_open_s.png",
+    342,
+    525
+   ],
+   "O": [
+    "patches/pose_peace/m_open_l.png",
+    342,
+    525
+   ]
+  },
+  "eye": {
+   "2": [
+    "patches/pose_peace/e_2.png",
+    261,
+    442
+   ],
+   "1": [
+    "patches/pose_peace/e_1.png",
+    261,
+    414
+   ]
+  }
+ },
+ "pose_react_surprise": {
+  "img": "pose_react_surprise.png",
+  "match": 0.806,
+  "M": [
+   [
+    1.0898339748382568,
+    0.019023122265934944,
+    -39.959632873535156
+   ],
+   [
+    -0.019023122265934944,
+    1.0898339748382568,
+    -51.1082878112793
+   ]
+  ],
+  "mouth": {
+   "open_s": [
+    "patches/pose_react_surprise/m_open_s.png",
+    334,
+    563
+   ],
+   "open_l": [
+    "patches/pose_react_surprise/m_open_l.png",
+    334,
+    563
+   ],
+   "S": [
+    "patches/pose_react_surprise/m_open_s.png",
+    334,
+    563
+   ],
+   "L": [
+    "patches/pose_react_surprise/m_open_l.png",
+    334,
+    563
+   ],
+   "A": [
+    "patches/pose_react_surprise/m_open_l.png",
+    334,
+    563
+   ],
+   "E": [
+    "patches/pose_react_surprise/m_open_s.png",
+    334,
+    563
+   ],
+   "O": [
+    "patches/pose_react_surprise/m_open_l.png",
+    334,
+    563
+   ]
+  },
+  "eye": {
+   "2": [
+    "patches/pose_react_surprise/e_2.png",
+    250,
+    477
+   ],
+   "1": [
+    "patches/pose_react_surprise/e_1.png",
+    250,
+    448
+   ]
+  }
+ }
+}
